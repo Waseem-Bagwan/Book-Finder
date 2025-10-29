@@ -45,4 +45,4 @@ Then open http://localhost:5173 in your browser.
 
 🚀 Deployment
 
-Deployed on Vercel (or Netlify) — Live Demo
+Deployed on Vercel (or Netlify) — [Live Demo](https://book-finder-neon-xi.vercel.app/)
